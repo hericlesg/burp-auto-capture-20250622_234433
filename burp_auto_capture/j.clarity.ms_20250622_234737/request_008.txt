@@ -1,0 +1,22 @@
+POST /collect HTTP/1.1
+Host: j.clarity.ms
+Cookie: MUID=1DB26CE2227063AC07BE7AED231B62DA
+Content-Length: 975
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Content-Type: text/plain;charset=UTF-8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: */*
+Origin: https://app.firebanking.io
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Sec-Fetch-Storage-Access: active
+Referer: https://app.firebanking.io/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+Connection: keep-alive
+
+{"e":["0.8.9",8,43499,8042,"ltmacu3yli","khddmo","q419gf",1,0,0,0,"https://app.firebanking.io/home"],"a":[[43818,12,58,881,767],[43834,12,58,882,765],[43850,12,58,884,762],[43866,12,58,886,759],[43890,12,58,887,757],[43906,12,58,888,756],[43930,12,58,889,756],[43938,12,58,889,755],[43970,12,58,890,755],[43978,12,58,890,754],[44028,12,58,890,753],[46600,12,58,892,750],[46624,12,58,897,743],[46648,12,58,900,738],[46656,12,58,901,736],[46680,12,58,903,734],[46696,12,58,903,733],[46756,12,58,903,732],[47471,12,58,903,730],[47487,12,58,903,727],[47503,12,58,903,726],[47612,12,58,904,725],[47628,12,58,915,722],[47644,12,58,929,718],[47660,12,58,944,712],[47676,12,58,953,709],[47692,12,58,961,704],[47708,12,58,969,699],[47724,12,58,978,692],[47740,12,58,999,680],[47756,12,58,1022,665],[47764,12,58,1038,656],[47780,12,50,1093,627],[43499,4,1,1112,962,1097,952,0,0,881,768,40337,0,41650,881,768,41650,831,887,40208,831,887,40300,880,768,41642],[51541,0,2,5281,4,2,25,36]]}
