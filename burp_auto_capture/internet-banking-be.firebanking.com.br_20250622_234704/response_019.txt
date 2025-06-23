@@ -1,0 +1,15 @@
+HTTP/2 201 Created
+Date: Mon, 23 Jun 2025 02:45:01 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 84
+X-Powered-By: Express
+Access-Control-Allow-Origin: https://app.firebanking.io
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Etag: W/"54-1DQMjFy07s7ZNgE4D0BB0dE8YCE"
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 9540a5795a861433-GRU
+
+{"transactionId":"78739da4-b0e1-48c5-9bcf-078f3b28f31d","status":"WITHDRAW_REQUEST"}
