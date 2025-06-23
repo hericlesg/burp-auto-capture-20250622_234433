@@ -1,0 +1,9 @@
+HTTP/1.1 204 No Content
+Server: nginx
+Date: Mon, 23 Jun 2025 02:42:41 GMT
+Connection: keep-alive
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://app.firebanking.io
+Vary: Origin
+Request-Context: appId=cid-v1:3f60b293-70d6-4805-b0bb-3484f0a73bf0
+
