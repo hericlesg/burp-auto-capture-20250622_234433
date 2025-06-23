@@ -1,0 +1,151 @@
+{
+  "capture_timestamp": "20250622_234436", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/request_001.txt", 
+      "url": "https://internet-banking-be.firebanking.com.br:443/v1/businesses", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/response_001.txt", 
+      "timestamp": 1750646519921
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/request_002.txt", 
+      "url": "https://internet-banking-be.firebanking.com.br:443/v1/extracts?page=1&perPage=3", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/response_002.txt", 
+      "timestamp": 1750646522220
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/request_003.txt", 
+      "url": "https://internet-banking-be.firebanking.com.br:443/v1/businesses", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/response_003.txt", 
+      "timestamp": 1750646523319
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/request_004.txt", 
+      "url": "https://internet-banking-be.firebanking.com.br:443/v1/extracts?page=1&perPage=3", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/response_004.txt", 
+      "timestamp": 1750646525611
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/request_005.txt", 
+      "url": "https://internet-banking-be.firebanking.com.br:443/v1/businesses", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/response_005.txt", 
+      "timestamp": 1750646526535
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/request_006.txt", 
+      "url": "https://internet-banking-be.firebanking.com.br:443/v1/extracts?page=1&perPage=3", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/response_006.txt", 
+      "timestamp": 1750646528827
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/request_007.txt", 
+      "url": "https://internet-banking-be.firebanking.com.br:443/v1/businesses", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/response_007.txt", 
+      "timestamp": 1750646529911
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/request_008.txt", 
+      "url": "https://internet-banking-be.firebanking.com.br:443/v1/extracts?page=1&perPage=3", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/response_008.txt", 
+      "timestamp": 1750646532195
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/request_009.txt", 
+      "url": "https://internet-banking-be.firebanking.com.br:443/v1/businesses", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/response_009.txt", 
+      "timestamp": 1750646533133
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/request_010.txt", 
+      "url": "https://internet-banking-be.firebanking.com.br:443/v1/extracts?page=1&perPage=3", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/response_010.txt", 
+      "timestamp": 1750646535423
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/request_011.txt", 
+      "url": "https://internet-banking-be.firebanking.com.br:443/v1/businesses", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/response_011.txt", 
+      "timestamp": 1750646550023
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/request_012.txt", 
+      "url": "https://internet-banking-be.firebanking.com.br:443/v1/payments/withdraw", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/response_012.txt", 
+      "timestamp": 1750646552472
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/request_013.txt", 
+      "url": "https://internet-banking-be.firebanking.com.br:443/v1/extracts?page=1&perPage=3", 
+      "sequence_number": 13, 
+      "response_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/response_013.txt", 
+      "timestamp": 1750646553971
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/request_014.txt", 
+      "url": "https://internet-banking-be.firebanking.com.br:443/v1/extracts?page=1&perPage=3", 
+      "sequence_number": 14, 
+      "response_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/response_014.txt", 
+      "timestamp": 1750646563695
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/request_015.txt", 
+      "url": "https://internet-banking-be.firebanking.com.br:443/v1/businesses", 
+      "sequence_number": 15, 
+      "response_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/response_015.txt", 
+      "timestamp": 1750646571276
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/request_016.txt", 
+      "url": "https://internet-banking-be.firebanking.com.br:443/v1/extracts?page=1&perPage=3", 
+      "sequence_number": 16, 
+      "response_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/response_016.txt", 
+      "timestamp": 1750646673055
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/request_017.txt", 
+      "url": "https://internet-banking-be.firebanking.com.br:443/v1/businesses", 
+      "sequence_number": 17, 
+      "response_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/response_017.txt", 
+      "timestamp": 1750646675453
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/request_018.txt", 
+      "url": "https://internet-banking-be.firebanking.com.br:443/v1/extracts?page=1&perPage=3", 
+      "sequence_number": 18, 
+      "response_file": "burp_auto_capture/internet-banking-be.firebanking.com.br_20250622_234436/response_018.txt", 
+      "timestamp": 1750646676420
+    }
+  ], 
+  "host": "internet-banking-be.firebanking.com.br", 
+  "total_requests": 18
+}
