@@ -1,0 +1,14 @@
+HTTP/2 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json; charset=utf-8
+Date: Mon, 23 Jun 2025 02:46:15 GMT
+Etag: "14kvprhmlumnr"
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+X-Matched-Path: /api/extracts/pix/[...id]
+X-Vercel-Cache: MISS
+X-Vercel-Id: gru1::iad1::qrgw2-1750646774956-99f338d64ed2
+Content-Length: 856
+
+{"negotiator":{"fullName":" PAY2FLOW TECNOLOGIA E PAGAMENTOS LTDA","document":"55877218000110","clientType":"PJ"},"operation":{"type":"WITHDRAW","method":"PIX","value":1,"provider":"celcoin","status":"WITHDRAW_PAID","chargeTableID":"6814d36724c3310c97b9ccea","externalID":null,"fee":0.6,"result":1.6,"providerID":"E13935893202506230244uEgsmbw2k3z","info":{"finishedTransaction":true,"transactionWithError":false,"webhookUpdated":false},"paymentProcessedDate":"2025-06-23T02:45:03.879Z","amountAllowedToRefund":1},"receiver":{"name":"HERICLES GOMES DO NASCIMENTO","taxNumber":"***268031**","paymentBankISPB":"60701190","paymentBank":"ITAÃ UNIBANCO S.A.","paymentBankAgency":"0","paymentBankAccount":"******","paymentBankAccountDigit":"*","paymentBankAccountType":"CACC","paymentPixKey":"02726803113","paymentPixKeyType":"CPF","paymentSearchProtocol":null}}
