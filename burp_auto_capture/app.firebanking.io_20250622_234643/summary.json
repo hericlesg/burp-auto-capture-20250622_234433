@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250622_234643", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/app.firebanking.io_20250622_234643/request_001.txt", 
+      "url": "https://app.firebanking.io:443/api/extracts/pix/78739da4-b0e1-48c5-9bcf-078f3b28f31d", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/app.firebanking.io_20250622_234643/response_001.txt", 
+      "timestamp": 1750646775794
+    }
+  ], 
+  "host": "app.firebanking.io", 
+  "total_requests": 1
+}
