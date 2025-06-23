@@ -1,0 +1,15 @@
+HTTP/2 500 Internal Server Error
+Date: Mon, 23 Jun 2025 02:42:31 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 59
+X-Powered-By: Express
+Access-Control-Allow-Origin: https://app.firebanking.io
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Etag: W/"3b-BYWubeJF4VgVJCdmCpHX7GeQmHA"
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 9540a1e71ac6f1d5-GRU
+
+{"statusCode":500,"message":"Error on request to Celcoin."}
