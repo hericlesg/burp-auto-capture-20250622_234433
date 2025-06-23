@@ -1,0 +1,22 @@
+POST /collect HTTP/1.1
+Host: j.clarity.ms
+Cookie: MUID=1DB26CE2227063AC07BE7AED231B62DA
+Content-Length: 3530
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Content-Type: text/plain;charset=UTF-8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: */*
+Origin: https://app.firebanking.io
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Sec-Fetch-Storage-Access: active
+Referer: https://app.firebanking.io/
+Accept-Encoding: gzip, deflate, br
+Priority: u=4, i
+Connection: keep-alive
+
+{"e":["0.8.9",9,51541,15701,"ltmacu3yli","khddmo","q419gf",1,1,1,0,"https://app.firebanking.io/home"],"a":[[67241,2,6,2,0],[51541,4,1,1112,962,1097,952,0,0,1093,627,40337,0,47780,1093,627,47780,831,887,40208,831,887,40300,1038,656,47764],[67242,0,2,408,3,3,4,5,5,8,9,0,25,11,28,15003],[67242,36,6,[61157,1,61695,2,64711,0,65227,16,65545,0]],[67242,35,3]],"p":[[61157,6,635,43,"DIV","class=Toastify__toast-container Toastify__toast-container--top-center",636,635,[4],"id=1","data-in=true","class=Toastify__toast Toastify__toast-theme--light Toastify__toast--error Toastify--animate Toastify__bounce-enter--top-center",637,636,[4],"role=alert","class=Toastify__toast-body",638,636,637,"BUTTON","class=Toastify__close-button Toastify__close-button--light","type=button",639,636,638,[4],"class=Toastify__progress-bar--wrp","data-hidden=true",640,637,[4],"class=Toastify__toast-icon Toastify--animate-icon Toastify__zoom-enter",641,637,640,[4],642,638,"svg:svg","aria-hidden=true","viewBox=0 0 14 16",643,639,[4],"class=Toastify__progress-bar--bg Toastify__progress-bar-theme--light Toastify__progress-bar--error",644,639,643,[4],"role=progressbar",[40],"class=Toastify__progress-bar Toastify__progress-bar--animated Toastify__progress-bar-theme--light Toastify__progress-bar--error","style=animation-duration: 3000ms; animation-play-state: paused;",645,640,[39],"viewBox=0 0 24 24","width=100%","height=100%","fill=var(--toastify-icon-color-error)",646,641,"*T","Error on request to Celcoin.",647,642,"svg:path","fill-rule=evenodd","d=M7.71 8.23l3.75 3.75-1.48 1.48-3.75-3.75-3.75 3.75L1 11.98l3.75-3.75L1 4.48 2.48 3l3.75 3.75L9.98 3l1.48 1.48-3.75 3.75z",648,645,[67],"d=M11.983 0a12.206 12.206 0 00-8.51 3.653A11.8 11.8 0 000 12.207 11.779 11.779 0 0011.8 24h.214A12.111 12.111 0 0024 11.791 11.766 11.766 0 0011.983 0zM10.5 16.542a1.476 1.476 0 011.449-1.53h.027a1.527 1.527 0 011.523 1.47 1.475 1.475 0 01-1.449 1.53h-.027a1.529 1.529 0 01-1.523-1.47zM11 12.5v-6a1 1 0 012 0v6a1 1 0 11-2 0z"],[61158,6,630,"DIV",649,99,"*T","Pagar",71,58,70,"BUTTON","type=button","id=send-pix-btn","class=flex items-center justify-center gap-x-3 py-4 px-7 rounded-full w-fit border border-orange-400 whitespace-nowrap text-base font-medium cursor-pointer disabled:bg-gray-100 disabled:border-gray-100 disabled:cursor-not-allowed disabled:text-white-100 __variable_7b4950 bg-orange-400 text-white-100 sc-f270d0bd-6 bwxToH"],[61695,6,636,635,"DIV","id=1","data-in=true","class=Toastify__toast Toastify__toast-theme--light Toastify__toast--error"],[61697,6,644,639,643,"DIV","role=progressbar","aria-hidden=true","class=Toastify__progress-bar Toastify__progress-bar--animated Toastify__progress-bar-theme--light Toastify__progress-bar--error","style=animation-duration: 3000ms; animation-play-state: running;"],[64711,6,637,636,"DIV","class=Toastify__toast-body",636,635,[4],"id=1","data-in=false","class=Toastify__toast Toastify__toast-theme--light Toastify__toast--error Toastify--animate Toastify__bounce-exit--top-center"],[65227,6,636,635,"DIV","id=1","data-in=false","class=Toastify__toast Toastify__toast-theme--light Toastify__toast--error Toastify--animate Toastify__bounce-exit--top-center","style=min-height: initial; height: 64px; transition: 300ms;"],[65243,6,636,635,"DIV","id=1","data-in=false","class=Toastify__toast Toastify__toast-theme--light Toastify__toast--error Toastify--animate Toastify__bounce-exit--top-center","style=min-height: initial; height: 0px; transition: 300ms; padding: 0px; margin: 0px;"],[65545,6,635,"DIV"]]}
