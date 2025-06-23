@@ -1,0 +1,22 @@
+POST /collect HTTP/1.1
+Host: j.clarity.ms
+Cookie: MUID=1DB26CE2227063AC07BE7AED231B62DA
+Content-Length: 1232
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Content-Type: text/plain;charset=UTF-8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: */*
+Origin: https://app.firebanking.io
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Sec-Fetch-Storage-Access: active
+Referer: https://app.firebanking.io/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+Connection: keep-alive
+
+{"e":["0.8.9",6,24659,12579,"ltmacu3yli","khddmo","q419gf",1,0,0,0,"https://app.firebanking.io/home"],"a":[[31660,12,95,1052,324],[31676,12,95,977,342],[31692,12,96,921,357],[31706,12,159,910,360],[31722,12,159,900,363],[31738,12,159,904,363],[31754,12,159,911,361],[31938,12,159,909,362],[31954,12,159,906,364],[31973,12,159,899,367],[31988,12,159,889,370],[32004,12,159,875,374],[32020,12,159,861,377],[32036,12,159,855,379],[32052,12,159,852,380],[32076,12,159,849,380],[32092,12,159,848,381],[32108,12,159,847,381],[32133,12,159,845,381],[32236,13,159,845,381],[32255,12,159,845,381],[32326,14,159,845,381],[32326,9,159,845,381,11652,15380,0,0,0,null,null,"sluo22lx.sluo22lx",1,0],[33594,12,159,846,381],[33610,12,159,857,376],[33626,12,159,872,368],[33650,12,159,882,363],[36494,38,159,2],[24659,4,1,1112,962,1097,952,0,0,1060,462,21129,0,23734,1060,462,23734,787,280,19274,787,280,19338,980,477,23714],[37237,0,2,639,3,0,4,3,5,1,25,32],[37238,36,6,[36500,0]]],"p":[[36500,6,159,129,158,"INPUT","type=text","placeholder=â¢â¢â¢â¢â¢ â¢â¢â¢â¢â¢â¢â¢â¢ â¢â¢ â¢â¢â¢â¢â¢ â¢â¢â¢â¢â¢â¢â¢â¢â¢","id=pixkey","aria-invalid=false","class=sc-6c550afd-3 haqKjs","value=â¢â¢â¢â¢â¢ â¢â¢â¢â¢ â¢â¢â¢â¢"]]}
