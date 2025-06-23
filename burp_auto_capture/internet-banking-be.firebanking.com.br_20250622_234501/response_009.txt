@@ -1,0 +1,14 @@
+HTTP/2 200 OK
+Date: Mon, 23 Jun 2025 02:42:12 GMT
+Content-Type: application/json; charset=utf-8
+X-Powered-By: Express
+Access-Control-Allow-Origin: https://app.firebanking.io
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Etag: W/"727-SoqgPENXBMPPR6wHm4ibmCCYNtM"
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 9540a17bbc93e2a8-GIG
+
+{"name":" PAY2FLOW TECNOLOGIA E PAGAMENTOS LTDA","balance":3.75,"assuranceBalance":0,"document":"55877218000110","limits":{"in":1000,"out":10000},"active":true,"isOtpConfigured":false,"address":{"zip_code":"88330272","street":"Rua 3300 ","number":"341","complement":" SALA 12 E 13 BOX 1461","neighborhood":"Centro","city":"BalneÃ¡rio CamboriÃº","state":"SC","country":"Brasil"},"contact":{"name":" PAY2FLOW TECNOLOGIA E PAGAMENTOS LTDA","email":"contatopay2flow@gmail.com","phone":{"ddi":"55","ddd":"21","number":"995964922"}},"integration":{"webhookUrl":"https://checkout.pay2flow.com/callback/"},"pixKeys":[{"pixKey":"01240bb6-5c8e-4410-871b-1392c7f7de6e","pixType":"RANDOM_KEY"}],"provider":"CELCOIN","businessRules":{"_id":"6814d367a60b6b05fc8bc3e0","businessId":"6814d36724c3310c97b9ccec","__v":0,"createdAt":"2025-05-02T14:15:03.087Z","limits":{"pixIn":{"perTransactionLimit":1000,"dailyLimit":2000000,"daytimeLimit":1000000,"nighttimeLimit":1000000},"pixOut":{"active":true,"perTransactionLimit":10000,"dailyLimit":110000,"daytimeLimit":100000,"nighttimeLimit":10000,"allowedDocumentKeys":[],"allowedAuthTypes":["API_KEY","BASIC","BEARER"]},"_id":"6856c2de0a15df361411349a"},"paymentMethods":{"creditCard":{"subordinateMerchantId":"","active":false,"activePersistCreditCard":false,"activeSubscription":false,"balanceLiquidityTimeDays":0,"installmentsLimit":null,"provider":""},"slip":{"active":false,"provider":""}},"providerFeeConfig":{"hasAutomaticCharge":false,"amount":0},"splitPix":{"allowAutomaticReprocessing":false,"daysToProcessing":0,"_id":"6814d36724c3310c97b9ccf2"},"twoFactorAuthentication":{"active":false,"requiredOperations":[],"_id":"6858bf049af2d92703cc8bf5"},"updatedAt":"2025-06-21T14:34:06.234Z","infractions":{"active":false,"_id":"6858bf049af2d92703cc8bf6"},"updatedBy":"joao.almeida@firebanking.io"}}
