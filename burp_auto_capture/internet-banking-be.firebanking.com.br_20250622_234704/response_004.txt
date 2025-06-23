@@ -1,0 +1,14 @@
+HTTP/2 200 OK
+Date: Mon, 23 Jun 2025 02:42:05 GMT
+Content-Type: application/json; charset=utf-8
+X-Powered-By: Express
+Access-Control-Allow-Origin: https://app.firebanking.io
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Etag: W/"6d5-1AIw8OxgHQ7ebxhK0LnpCzaPc4w"
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 9540a14c8cdfe2a8-GIG
+
+{"items":[{"month":"Junho","transactionsData":[{"date":"Domingo, 22 jun de 2025","month":"Junho","balanceOfTheDay":3.9999999999999996,"formattedBalanceOfTheDay":"R$Â 4,00","transactions":[{"id":"6858b4bff67c7d5ec670335f","transactionId":"7526978f-96aa-4d1a-8840-0df11d0afdb2","endToEndId":"E00416968202506230158krsN46K4g9M","type":"EXIT","status":"FEE","receiptUrl":null,"label":"Taxa de entrada","formattedDate":"Domingo, 22 jun de 2025","hour":"22h58","formattedValue":"- R$Â 0,60","value":0.6,"description":"Fire","from":{"name":"Pay2flow","document":"55877218000110","bank":"509"},"to":{"name":"Fire","document":"4null5438750000188nullnull13","bank":null}},{"id":"6858b4bff67c7d5ec670335d","transactionId":"7526978f-96aa-4d1a-8840-0df11d0afdb2","endToEndId":"E00416968202506230158krsN46K4g9M","type":"ENTRANCE","status":"PAYMENT","receiptUrl":null,"label":"TransferÃªncia recebida","formattedDate":"Domingo, 22 jun de 2025","hour":"22h58","formattedValue":"R$Â 4,00","value":4,"description":"HERICLES GOMES DO NASCIMENTO","from":{"name":"HERICLES GOMES DO NASCIMENTO","document":"02726803113","bank":"0"},"to":{"name":"Pay2flow","document":"55877218000110","bank":"509"}},{"id":"6858b46716c4cbd623f9741e","transactionId":"a57235b5-a82c-4ec3-9674-2049f67d774e","endToEndId":"E13935893202506230156LGcYkWQzdV9","type":"EXIT","status":"FEE","receiptUrl":null,"label":"Taxa de saque","formattedDate":"Domingo, 22 jun de 2025","hour":"22h56","formattedValue":"- R$Â 0,60","value":0.6,"description":"Fire","from":{"name":" PAY2FLOW TECNOLOGIA E PAGAMENTOS LTDA","document":"55877218000110","bank":"0"},"to":{"name":"Fire","document":"4null5438750000188nullnull13","bank":null}}]}]}],"page":1,"perPage":3,"itemsSize":3,"totalCount":72,"totalOfPages":24}
