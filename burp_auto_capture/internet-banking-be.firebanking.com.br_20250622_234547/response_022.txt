@@ -1,0 +1,14 @@
+HTTP/2 200 OK
+Date: Mon, 23 Jun 2025 02:45:37 GMT
+Content-Type: application/json; charset=utf-8
+X-Powered-By: Express
+Access-Control-Allow-Origin: https://app.firebanking.io
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Etag: W/"2fa-Q9NkJuVFTA9WLO3pwMSWJxdwVfY"
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 9540a67b3a0a625e-GRU
+
+{"_id":"78739da4-b0e1-48c5-9bcf-078f3b28f31d","history":[{"status":"WAITING_CONFIRMATION","info":{"finishedTransaction":false,"transactionWithError":false},"providerResponse":null,"createdAt":"2025-06-23T02:44:59.027Z"},{"status":"WITHDRAW_REQUEST","info":{"finishedTransaction":false,"transactionWithError":false},"providerResponse":{},"createdAt":"2025-06-23T02:45:01.248Z"},{"status":"WITHDRAW_PAID","info":{"finishedTransaction":true,"transactionWithError":false},"providerResponse":{},"createdAt":"2025-06-23T02:45:03.879Z"},{"status":"WEBHOOK_ERROR","info":{"finishedTransaction":true,"transactionWithError":false},"providerResponse":{},"createdAt":"2025-06-23T02:45:24.758Z"}],"createdAt":"2025-06-23T02:44:59.028Z","updatedAt":"2025-06-23T02:45:24.762Z"}
